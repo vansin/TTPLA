@@ -1,0 +1,2 @@
+import mmdet_custom.datasets
+import mmdet_custom.datasets.pipelines
